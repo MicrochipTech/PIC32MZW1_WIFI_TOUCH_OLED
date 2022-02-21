@@ -3,7 +3,7 @@
 	"category": "com.microchip.ide.project",
 	"content": {
 		"metaDataVersion": "1.3.0",
-		"name": "com.microchip.mcu32.mplabx.pic32mz_w1_curiosity_wifi_touch_oled",
+		"name": "com.microchip.mcu32.mplabx.project.PIC32MZW1_WIFI_TOUCH_OLED",
 		"version": "3.6.1",
 		"displayName": "Wi-Fi Touch OLED Display Demo",
 		"projectName": "PIC32MZW1_WIFI_TOUCH_OLED",
@@ -38,7 +38,7 @@
 		},
 		"author": "Microchip",
 		"peripherals": [
-			"Wi-Fi", "Touch"
+			"Wi-Fi"
 		],
 		"keywords": [
 			"MHC",
@@ -47,11 +47,7 @@
 			"WFI32",
 			"WFI32E01",
 			"PIC32MZ W1 Family",
-			"wireless",
-			"WIFI",
-			"Wi-Fi touch",
-			"cvd",
-			"touch"
+			"wireless"
 		],
 		"additionalData": {
 			"longDescription": {
