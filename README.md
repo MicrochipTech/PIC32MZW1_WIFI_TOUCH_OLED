@@ -24,7 +24,7 @@ Note that while this repository is unsupported, Microchip welcome community cont
 > Interact with peers in the community at [WiFi Forum](https://www.microchip.com/forums/f545.aspx).
 
 
-### Software requirement
+## Software requirement
 
 The sample project has been created and tested with the following Software Development Tools:
 - MPLAB X IDE v6.00

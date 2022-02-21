@@ -6,7 +6,7 @@
 		"name": "com.microchip.mcu32.mplabx.pic32mz_w1_curiosity_wifi_touch_oled",
 		"version": "3.6.1",
 		"displayName": "Wi-Fi Touch OLED Display Demo",
-		"projectName": "pic32mz_w1_curiosity_wifi_touch_oled",
+		"projectName": "PIC32MZW1_WIFI_TOUCH_OLED",
 		"shortDescription": "This example application acts as a TCP Server to which a TCP Client can connect and visualize QT7 Touch Xpro data. The touch data are also printed on an OLED Display.",
 		"ide": {
 			"name": "MPLABX",
